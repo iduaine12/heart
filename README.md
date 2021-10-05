@@ -10,4 +10,4 @@ This is an animation heart beat with infinite loop.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+
